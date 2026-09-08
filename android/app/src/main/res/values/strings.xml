@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Run 2 Win</string>
+    <string name="title_activity_main">Run 2 Win</string>
+    <string name="package_name">com.run2win.app</string>
+    <string name="custom_url_scheme">com.run2win.app</string>
+</resources>
