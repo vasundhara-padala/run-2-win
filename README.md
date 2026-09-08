@@ -28,3 +28,4 @@ Then open http://localhost:3000 — it redirects to `/home`. `/purchase` and
 - Don't point this at production data or a real payment key.
 - Don't hand out the main `run_2_win` repository alongside this — only this
   folder is meant to be shared pre-payment.
+# run-2-win
